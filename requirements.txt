@@ -1,0 +1,11 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+peft
+datasets
+huggingface_hub
+safetensors
+tqdm
+Pillow
